@@ -1,6 +1,6 @@
 <h1 align="start">Hi 👋 I'm Proshanto Das</h1>
 <p align="start">
-<img src="[banner.png](https://raw.githubusercontent.com/kanaidasami/kanaidasami/refs/heads/main/wordpress%20developer.png)" width="100%" alt="Proshanto Das Banner">
+<img src="https://raw.githubusercontent.com/kanaidasami/kanaidasami/refs/heads/main/wordpress%20developer.png" width="100%" alt="Proshanto Das Banner">
 </p>
 
 
