@@ -50,11 +50,11 @@ Hi, I’m Proshanto Das, a WordPress Developer & PHP expert with 3+ years’ exp
 
 # 🧩 Development Skills
 
-✔ WordPress Theme Development
-✔ WordPress Plugin Development
-✔ Elementor Website Design
-✔ WooCommerce Development
-✔ Website Speed Optimization
+✔ WordPress Theme Development<br>
+✔ WordPress Plugin Development<br>
+✔ Elementor Website Design<br>
+✔ WooCommerce Development<br>
+✔ Website Speed Optimization<br>
 ✔ Custom WordPress Functionality
 
 ---
