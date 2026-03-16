@@ -15,10 +15,7 @@ I build modern, fast, and scalable WordPress websites using Elementor and custom
 
 # 🚀 About Me
 
-* 💻 WordPress Developer with **3+ years experience**
-* ⚡ Specialized in **Theme Development & Plugin Development**
-* 🌍 Working with **international & Bangladeshi clients**
-* 🚀 Focused on **performance, scalability & clean UI**
+Hi, I’m Proshanto Das, a WordPress Developer & PHP expert with 3+ years’ experience and 300+ completed projects. I build custom WordPress solutions—fixing complex bugs, creating themes/plugins, optimizing speed & security, building WooCommerce stores, and delivering full eLearning/LMS platforms. Expect clean code, responsive design, and scalable websites that load fast and perform. 
 
 ---
 
