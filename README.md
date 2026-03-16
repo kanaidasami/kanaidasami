@@ -5,9 +5,9 @@
 
 
 
-<h3 align="center">WordPress Developer | Theme & Plugin Developer</h3>
+<h3 align="start">WordPress Developer | Theme & Plugin Developer</h3>
 
-<p align="center">
+<p align="start">
 I build modern, fast, and scalable WordPress websites using Elementor and custom development.
 </p>
 
