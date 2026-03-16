@@ -5,11 +5,9 @@
 
 
 
-<h3 align="start">WordPress Developer | Theme & Plugin Developer</h3>
-
-<p align="start">
-I build modern, fast, and scalable WordPress websites using Elementor and custom development.
-</p>
+👑 I am a Web Developer <br>
+🖊️ Love to write code <br>
+🎤 Like to share my knowledge
 
 ---
 
@@ -59,14 +57,28 @@ Hi, I’m Proshanto Das, a WordPress Developer & PHP expert with 3+ years’ exp
 
 
 ---
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/proshanto.das.176081/" target="_blank">
+<img src="https://img.icons8.com/color/96/facebook-circled--v1.png" height="70" width="70"/>
+</a>
+
+<a href="https://www.youtube.com/@ProshantoDas-rk" target="_blank">
+<img src="https://img.icons8.com/color/96/youtube-play.png" height="70" width="70"/>
+</a>
+
+</p>
+
 
 # 📊 GitHub Contributions & Insights
 
-<p align="center">
+<p align="start">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=kanaidasami&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanaidasami&layout=compact&theme=tokyonight">
 
 </p>
 
