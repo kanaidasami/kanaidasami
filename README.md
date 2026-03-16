@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Proshanto Das</h1>
-<p align="center">
+<h1 align="start">Hi 👋 I'm Proshanto Das</h1>
+<p align="start">
 <img src="banner.png" width="100%" alt="Proshanto Das Banner">
 </p>
 
