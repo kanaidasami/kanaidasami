@@ -50,12 +50,13 @@ Hi, I’m Proshanto Das, a WordPress Developer & PHP expert with 3+ years’ exp
 
 # 🧩 Development Skills
 
-✔ WordPress Theme Development<br>
-✔ WordPress Plugin Development<br>
-✔ Elementor Website Design<br>
-✔ WooCommerce Development<br>
-✔ Website Speed Optimization<br>
-✔ Custom WordPress Functionality
+* 🎨 WordPress Theme Development
+* 🔌 WordPress Plugin Development
+* 🧩 Elementor Website Design
+* 🛒 WooCommerce Development
+* ⚡ Website Speed Optimization
+* 🛠 Custom WordPress Functionality
+
 
 ---
 
@@ -78,15 +79,28 @@ https://proshantodas.com
 
 ---
 
-# 📫 Reach Me At
+## 📫 Reach Me At
 
-📧 Email:
-[proshantodas2111@gmail.com](mailto:proshantodas2111@gmail.com)
+<p align="left">
 
-🌐 Website:
-https://proshantodas.com
+<a href="mailto:proshantodas2111@gmail.com">
+<img src="https://img.shields.io/badge/Email-proshantodas2111%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> <br>
 
----
+<a href="tel:01909793305">
+<img src="https://img.shields.io/badge/Phone-01909793305-green?style=for-the-badge&logo=phone&logoColor=white"/>
+</a><br>
+
+<a href="https://wa.me/8801909793305">
+<img src="https://img.shields.io/badge/WhatsApp-01909793305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><br>
+
+<a href="https://proshantodas.com">
+<img src="https://img.shields.io/badge/Website-proshantodas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a><br>
+
+</p>
+
 
 # ⚡ Fun Fact
 
