@@ -99,12 +99,12 @@ https://proshantodas.com
 <img src="https://img.shields.io/badge/Email-proshantodas2111%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> <br>
 
-<a href="tel:01909793305">
-<img src="https://img.shields.io/badge/Phone-01909793305-green?style=for-the-badge&logo=phone&logoColor=white"/>
+<a href="tel:01908793305">
+<img src="https://img.shields.io/badge/Phone-01908793305-green?style=for-the-badge&logo=phone&logoColor=white"/>
 </a><br>
 
 <a href="https://wa.me/8801909793305">
-<img src="https://img.shields.io/badge/WhatsApp-01909793305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-01908793305-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a><br>
 
 <a href="https://proshantodas.com">
